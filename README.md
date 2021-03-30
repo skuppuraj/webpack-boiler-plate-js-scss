@@ -27,3 +27,5 @@ For production
 npm run production
 ```
 >Note: Production command will create the minified files in ``assets/dist/js`` and ``assets/dist/css`` folders.
+
+Also, this will create production zip file ``dist/app-pacakge[version].zip`` with all the files from the root directory
